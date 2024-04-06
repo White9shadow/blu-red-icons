@@ -1,9 +1,7 @@
 ## Installation
 
-- Download the `.zip` file from down
+- Download the `.zip` file from [Pling](https://www.pling.com/p/2144486/)
 
-[Pling](hhttps://www.pling.com/p/2144486/)
-  
 
 - Extract the `.zip` file to the icons directory i.e. `/usr/share/icons/`, `~/.local/share/.icons/`  or `~/.icons/` (create it if necessary).
 
